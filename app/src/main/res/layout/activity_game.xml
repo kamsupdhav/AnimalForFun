@@ -34,6 +34,7 @@
         android:layout_width="@dimen/my_icon"
         android:layout_height="@dimen/my_icon"
         android:background="@null"
+        android:onClick="playSound"
         android:scaleType="fitCenter"
         app:layout_constraintBottom_toBottomOf="@+id/imvQuestion"
         app:layout_constraintEnd_toEndOf="parent"
